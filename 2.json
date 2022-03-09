@@ -6,17 +6,17 @@
   "closeExistingTabs": true,
   "websites": [
     {
-      "url": "https://generator.artblocks.io/0x059edd72cd353df5106d2b9cc5ab83a52287ac3a/1660",
+      "url": "https://generator.artblocks.io/0x059edd72cd353df5106d2b9cc5ab83a52287ac3a/4444",
       "duration": 2,
       "tabReloadIntervalSeconds": 0
     },
     {
-      "url": "https://generator.artblocks.io/0x059edd72cd353df5106d2b9cc5ab83a52287ac3a/3276",
+      "url": "https://generator.artblocks.io/0x059edd72cd353df5106d2b9cc5ab83a52287ac3a/5555",
       "duration": 2,
       "tabReloadIntervalSeconds": 0
     },
     {
-      "url": "https://generator.artblocks.io/0x059edd72cd353df5106d2b9cc5ab83a52287ac3a/6666",
+      "url": "https://generator.artblocks.io/0x059edd72cd353df5106d2b9cc5ab83a52287ac3a/8888",
       "duration": 2,
       "tabReloadIntervalSeconds": 0
     }
