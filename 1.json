@@ -1,0 +1,24 @@
+{
+  "settingsReloadIntervalMinutes": 1,
+  "fullscreen": true,
+  "autoStart": false,
+  "lazyLoadTabs": false,
+  "closeExistingTabs": true,
+  "websites": [
+    {
+      "url": "https://generator.artblocks.io/0x059edd72cd353df5106d2b9cc5ab83a52287ac3a/660",
+      "duration": 2,
+      "tabReloadIntervalSeconds": 0
+    },
+    {
+      "url": "https://generator.artblocks.io/0x059edd72cd353df5106d2b9cc5ab83a52287ac3a/9276",
+      "duration": 2,
+      "tabReloadIntervalSeconds": 0
+    },
+    {
+      "url": "https://generator.artblocks.io/0x059edd72cd353df5106d2b9cc5ab83a52287ac3a/9279",
+      "duration": 2,
+      "tabReloadIntervalSeconds": 0
+    }
+  ]
+}
